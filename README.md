@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sitpet4bed](http://www.sitpet4bed.space/)
 
-- 🌱 I’m currently learning **react, p5js,**
+- 🌱 I’m currently learning **React, P5js, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/heyou](https://troopl.com/heyou)
 
