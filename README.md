@@ -4,13 +4,13 @@
 <div align="center"> 
  🌱 I’m currently learning **React, P5js, Solidity**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/heyou](https://troopl.com/heyou)
+ 👨‍💻 All of my projects are available at [https://troopl.com/heyou](https://troopl.com/heyou)
 
-- 💬 Ask me about **Ruby rails, css, p5js**
+ 💬 Ask me about **Ruby rails, css, p5js**
 
-- 📫 How to reach me **heyou88@hotmail.com**
+ 📫 How to reach me **heyou88@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/he-you/](https://www.linkedin.com/in/he-you/)
+ 📄 Know about my experiences [https://www.linkedin.com/in/he-you/](https://www.linkedin.com/in/he-you/)
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
