@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Heyou</h1>
 <h3 align="center">A passionate artist/programmer/designer from China</h3>
 <div align="center"> 
-- 🌱 I’m currently learning **React, P5js, Solidity**
+ 🌱 I’m currently learning **React, P5js, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/heyou](https://troopl.com/heyou)
 
