@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heyou</h1>
 <h3 align="center">A passionate artist/programmer/designer from China</h3>
 
-- 🔭 I’m currently working on [sitpet4bed](http://www.sitpet4bed.space/)
-
 - 🌱 I’m currently learning **React, P5js, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/heyou](https://troopl.com/heyou)
