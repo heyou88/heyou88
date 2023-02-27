@@ -6,7 +6,7 @@
 
  👨‍💻 All of my projects are available at [https://troopl.com/heyou](https://troopl.com/heyou)
 
- 💬 Ask me about **Ruby rails, css, p5js**
+ 💬 Ask me about **Ruby rails, css, html, javascript**
 
  📫 How to reach me **heyou88@hotmail.com**
 
