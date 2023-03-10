@@ -23,6 +23,7 @@
 <h3 align="center">My stats:</h3>
 <a align="center" href="https://git.io/streak-stats"><img style="max-width: 100%;"  src="https://streak-stats.demolab.com?user=heyou88"/></a>
  <div align="center">
+ <h3 align="center">Visitors:</h3>
  <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg" alt="Visitor Count">
  </div>
  </div>
